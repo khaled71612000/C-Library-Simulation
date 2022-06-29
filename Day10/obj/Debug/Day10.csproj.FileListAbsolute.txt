@@ -1,0 +1,14 @@
+D:\Game\Day10\Day10\Day10\bin\Debug\Day10.exe.config
+D:\Game\Day10\Day10\Day10\bin\Debug\Day10.exe
+D:\Game\Day10\Day10\Day10\bin\Debug\Day10.pdb
+D:\Game\Day10\Day10\Day10\obj\Debug\Day10.csproj.AssemblyReference.cache
+D:\Game\Day10\Day10\Day10\obj\Debug\Day10.csproj.CoreCompileInputs.cache
+D:\Game\Day10\Day10\Day10\obj\Debug\Day10.exe
+D:\Game\Day10\Day10\Day10\obj\Debug\Day10.pdb
+C:\Users\Kspades\OneDrive\Desktop\Day10\Day10\bin\Debug\Day10.exe.config
+C:\Users\Kspades\OneDrive\Desktop\Day10\Day10\bin\Debug\Day10.exe
+C:\Users\Kspades\OneDrive\Desktop\Day10\Day10\bin\Debug\Day10.pdb
+C:\Users\Kspades\OneDrive\Desktop\Day10\Day10\obj\Debug\Day10.csproj.AssemblyReference.cache
+C:\Users\Kspades\OneDrive\Desktop\Day10\Day10\obj\Debug\Day10.csproj.CoreCompileInputs.cache
+C:\Users\Kspades\OneDrive\Desktop\Day10\Day10\obj\Debug\Day10.exe
+C:\Users\Kspades\OneDrive\Desktop\Day10\Day10\obj\Debug\Day10.pdb
